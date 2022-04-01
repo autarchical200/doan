@@ -442,7 +442,9 @@ header .search-bar-container label:hover{
 .review .review-slider{
   padding-bottom: 2rem;
 }
-
+.swiper-wrapper {
+  flex-direction: column;
+}
 .review .box{
   padding:2rem;
   text-align: center;
